@@ -2,7 +2,7 @@
 en la terminal ejecutamos el siguiente comando
 
 ```bash
-    -npm init 
+    npm init 
 ```
 Ese comando creará el proyecto con NodeJS, y generará un archivo llamado package.json, donde se registran dependencias y scripts.
 
@@ -10,11 +10,11 @@ Instalamos dependencias con el comando (npm install "dependencia") o (npm i "dep
 
 *Forma larga*
 ```bash
-    -npm install express
+    npm install express
 ```
 *Forma corta*
 ```bash
-    -npm i express
+    npm i express
 ```
 
 - En este caso usaremos una importación modular y crearemos un script, así que hay que cambiar algo ligero en el archivo package.json
@@ -77,9 +77,9 @@ app.listen(PORT, () => { // Servidor funcionando en el puerto 3000
 
 Ya tenemos la base de nuestra app, y dicha app se encuentra en la ruta http://localhost:3000
 
-*http://localhost:* = esto hace referencia a que nuestra app solo existe en nuestra computadora
+- *http://localhost:* = esto hace referencia a que nuestra app solo existe en nuestra computadora
 
-*3000* = es el puerto de nuestra computadora donde se encuentra la app
+- *3000* = es el puerto de nuestra computadora donde se encuentra la app
 
 Por último, debemos ejecutar la app con el script que habíamos creado en el package.json:
 
@@ -96,4 +96,4 @@ npm run dev
 Ese comando ejecutará nuestra app, y si todo sale correcto podremos visualizar el mensaje *"Servidor en http://localhost:3000"*
 
 
-*pasar a src/02-estructura.md*
+**pasar a src/02-estructura.md**

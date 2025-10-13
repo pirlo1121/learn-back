@@ -69,4 +69,4 @@ app.listen(PORT, () => {
 
 Ya tenemos la conexión a la base de datos lista.
 
-*pasar a src/model/04-model.md*
+**pasar a src/model/04-model.md**
