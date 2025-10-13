@@ -93,4 +93,4 @@ npm run dev
     npm run dev
 ```
 
-Ese comando ejecutará nuestra app, y si todo sale correcto podremos visualizar el mensaje *'Servidor en *http://localhost:3000'*
+Ese comando ejecutará nuestra app, y si todo sale correcto podremos visualizar el mensaje *'Servidor en *'http://localhost:3000'*
