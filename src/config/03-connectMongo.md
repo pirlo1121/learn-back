@@ -69,4 +69,4 @@ app.listen(PORT, () => {
 
 Ya tenemos la conexión a la base de datos lista.
 
-**pasar a src/model/04-model.md**
+[pasar a src/model/04.model.md](https://github.com/pirlo1121/learn-back/blob/main/src/models/04-model.md "NEXT")

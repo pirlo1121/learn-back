@@ -112,4 +112,4 @@ export default Producto; // con el modelo ya podemos crear productos en nuestra 
 
 Con eso finalizariamos el modelo de productos!
 
-**pasar a src/routes/05-routes.md**
+[pasar a src/routes/05-routes.md](https://github.com/pirlo1121/learn-back/blob/main/src/routes/05-routes.md "NEXT")

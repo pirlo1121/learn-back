@@ -64,5 +64,4 @@ Cada carpeta contiene su propio `README.md` explicando **qué hace cada archivo*
 - Postman o cliente similar para pruebas.
 
 
-**pasar a 01-introduccion.md**
 [pasar a 01-introduccion.md](https://github.com/pirlo1121/learn-back/blob/main/01-introduccion.md "NEXT")

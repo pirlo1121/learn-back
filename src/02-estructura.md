@@ -23,6 +23,5 @@ En esta etapa organizamos nuestro proyecto para mantener el código limpio, esca
     - config/       # Configuración (BD, variables, etc)
 
 
-**pasar a src/config/03-connectMongo.md**
 
-
+[pasar a src/config/03-connectMongo.md](https://github.com/pirlo1121/learn-back/blob/main/src/config/03-connectMongo.md "NEXT")

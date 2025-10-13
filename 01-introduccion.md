@@ -96,4 +96,4 @@ npm run dev
 Ese comando ejecutará nuestra app, y si todo sale correcto podremos visualizar el mensaje *"Servidor en http://localhost:3000"*
 
 
-**pasar a src/02-estructura.md**
+[pasar a src/02-estructura.md](https://github.com/pirlo1121/learn-back/blob/main/src/02-estructura.md "NEXT")
