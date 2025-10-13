@@ -1,4 +1,4 @@
-# 01 - Creación del entorno
+# 01.1 - Creación del entorno
 en la terminal ejecutamos el siguiente comando
 
 ```bash
@@ -47,7 +47,7 @@ Así que simplemente agregaremos 2 líneas de código:
 
 
 
-# 02 - Creamos archivo principal
+# 01.2 - Creamos archivo principal
 
 Creamos un archivo server.js - este archivo será nuestro servidor
 
@@ -94,3 +94,6 @@ npm run dev
 ```
 
 Ese comando ejecutará nuestra app, y si todo sale correcto podremos visualizar el mensaje *"Servidor en http://localhost:3000"*
+
+
+*pasar a src/02-estructura.md*

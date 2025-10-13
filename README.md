@@ -18,17 +18,21 @@ Organización de archivos: `routes`, `controllers`, `models` y orden lógico del
 
 | `03-mongo-conexion` | 
 
-Conexión a MongoDB con Mongoose y explicación del modelo de datos. |
+Conexión a MongoDB con Mongoose  |
 
-| `04-routes` | 
+| `04-model` | 
+
+Modelo y Schema y explicación del modelo de datos. |
+
+| `05-routes` | 
 
 Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
 
-| `05-crud` | 
+| `06-crud` | 
 
 Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
 
-| `06-middlewares` | 
+| `07-middlewares` | 
 
 Validaciones, manejo de errores y flujo de petición-respuesta. |
 
@@ -53,3 +57,6 @@ Cada carpeta contiene su propio `README.md` explicando **qué hace cada archivo*
 - Node.js instalado.
 - MongoDB local o en la nube (Mongo Atlas).
 - Postman o cliente similar para pruebas.
+
+
+*pasar a 01-introduccion.md*

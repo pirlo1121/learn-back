@@ -23,3 +23,6 @@ En esta etapa organizamos nuestro proyecto para mantener el código limpio, esca
     - config/       # Configuración (BD, variables, etc)
 
 
+*pasar a src/config/03-connectMongo.md*
+
+
