@@ -7,32 +7,37 @@ Repositorio organizado en capítulos para entender **la estructura de un backend
 ##  Orden de lectura ( readme => 0-1 - 0-6 )
 
 # CONTENIDO 
-| `01-introduccion` | 
+**| `01-introduccion` |**
 
 Instalación, primer servidor y explicación del flujo básico de Express. |
 
 
-| `02-estructura-proyecto` | 
+**| `02-estructura-proyecto` |**
 
 Organización de archivos: `routes`, `controllers`, `models` y orden lógico del proyecto. |
 
-| `03-mongo-conexion` | 
+
+**| `03-mongo-conexion` |** 
 
 Conexión a MongoDB con Mongoose  |
 
-| `04-model` | 
+
+**| `04-model` |** 
 
 Modelo y Schema y explicación del modelo de datos. |
 
-| `05-routes` | 
+
+**| `05-routes` |** 
 
 Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
 
-| `06-crud` | 
+
+**| `06-crud` |** 
 
 Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
 
-| `07-middlewares` | 
+
+**| `07-middlewares` |** 
 
 Validaciones, manejo de errores y flujo de petición-respuesta. |
 
