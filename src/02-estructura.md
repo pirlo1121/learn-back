@@ -5,7 +5,10 @@ En esta etapa organizamos nuestro proyecto para mantener el código limpio, esca
 ---
 
 ##  Estructura recomendada
-src = carptea principal donde estará gran parte del codigo ordenado en otras carpetas
+*src* = carptea principal donde estará gran parte del codigo ordenado en otras carpetas
+
+*carpetas dentro de src:*
+    - routes, controllers, models, config, middlewares
 
 - src/
 
