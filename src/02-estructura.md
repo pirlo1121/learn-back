@@ -8,11 +8,17 @@ En esta etapa organizamos nuestro proyecto para mantener el código limpio, esca
 src = carptea principal donde estará gran parte del codigo ordenado en otras carpetas
 
 src/
+
     - routes/       # Aquí irán las rutas (endpoints)
+
     - controllers/  # Aquí va la lógica de cada ruta
+
     - models/       # Aquí irán los modelos (MongoDB / Mongoose)
+
     - middlewares/  # Funciones que interceptan peticiones (auth, logs, etc)
+
     - config/       # Configuración (BD, variables, etc)
+
 server.js       # servidor 
 
 - Crearemos archivos base con estructura mínima (sin lógica aún), solo para ir armando el esqueleto del backend.
