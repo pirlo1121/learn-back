@@ -7,7 +7,7 @@ En esta etapa organizamos nuestro proyecto para mantener el código limpio, esca
 ##  Estructura recomendada
 src = carptea principal donde estará gran parte del codigo ordenado en otras carpetas
 
-src/
+- src/
 
     - routes/       # Aquí irán las rutas (endpoints)
 
@@ -19,7 +19,7 @@ src/
 
     - config/       # Configuración (BD, variables, etc)
 
-server.js       # servidor 
+- server.js       # servidor 
 
 - Crearemos archivos base con estructura mínima (sin lógica aún), solo para ir armando el esqueleto del backend.
 
