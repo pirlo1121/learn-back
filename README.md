@@ -6,21 +6,33 @@ Repositorio organizado en capítulos para entender **la estructura de un backend
 
 ##  Orden de lectura ( readme => 0-1 - 0-6 )
 
-| Contenido |
-|--------|----------|
-| `01-introduccion` | Instalación, primer servidor y explicación del flujo básico de Express. |
+# CONTENIDO 
+| `01-introduccion` | 
 
-| `02-estructura-proyecto` | Organización de archivos: `routes`, `controllers`, `models` y orden lógico del proyecto. |
+Instalación, primer servidor y explicación del flujo básico de Express. |
 
-| `03-mongo-conexion` | Conexión a MongoDB con Mongoose y explicación del modelo de datos. |
 
-| `04-routes` | Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
+| `02-estructura-proyecto` | 
 
-| `05-crud` | Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
+Organización de archivos: `routes`, `controllers`, `models` y orden lógico del proyecto. |
 
-| `06-middlewares` | Validaciones, manejo de errores y flujo de petición-respuesta. |
+| `03-mongo-conexion` | 
 
-| `07-deploy` (opcional) | Preparación del proyecto para producción y despliegue. |
+Conexión a MongoDB con Mongoose y explicación del modelo de datos. |
+
+| `04-routes` | 
+
+Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
+
+| `05-crud` | 
+
+Implementación del CRUD paso a paso: creación, lectura, actualización y eliminación de datos. |
+
+| `06-middlewares` | 
+
+Validaciones, manejo de errores y flujo de petición-respuesta. |
+
+
 
 Cada carpeta contiene su propio `README.md` explicando **qué hace cada archivo** y **cómo se conecta con el resto del sistema**.
 
@@ -41,8 +53,3 @@ Cada carpeta contiene su propio `README.md` explicando **qué hace cada archivo*
 - Node.js instalado.
 - MongoDB local o en la nube (Mongo Atlas).
 - Postman o cliente similar para pruebas.
-
-Clonar el repo e instalar dependencias:
-
-```bash
-npm install

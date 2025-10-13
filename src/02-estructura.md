@@ -22,12 +22,4 @@ En esta etapa organizamos nuestro proyecto para mantener el código limpio, esca
 
     - config/       # Configuración (BD, variables, etc)
 
-- server.js       # servidor 
 
-- Crearemos archivos base con estructura mínima (sin lógica aún), solo para ir armando el esqueleto del backend.
-
-*crearemos un arhcivo javascript para trabajar con productos, un archivo en las siguientes carpetas ( routes, controllers, models )*
-
-carptea models = products.model.js
-carptea controllers = products.controller.js
-carptea routes = products.route.js
